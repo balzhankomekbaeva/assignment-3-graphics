@@ -68,8 +68,7 @@ make
 ## 🎥 Demo Video
 
 [![Watch the video]
-<video controls src="telegram-cloud-document-2-5471980406041511903.mp4" title="Title"></video>
-
+https://youtu.be/W2-5gkAIZkA?si=EFaz4ZzmPFuxJfua 
 
 ---
 
